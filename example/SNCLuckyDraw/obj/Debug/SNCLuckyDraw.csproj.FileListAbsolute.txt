@@ -1,0 +1,10 @@
+E:\Projects\SNCLuckyDraw\SNCLuckyDraw\bin\Debug\SNCLuckyDraw.exe.config
+E:\Projects\SNCLuckyDraw\SNCLuckyDraw\bin\Debug\SNCLuckyDraw.exe
+E:\Projects\SNCLuckyDraw\SNCLuckyDraw\bin\Debug\SNCLuckyDraw.pdb
+E:\Projects\SNCLuckyDraw\SNCLuckyDraw\obj\Debug\SNCLuckyDraw.csprojAssemblyReference.cache
+E:\Projects\SNCLuckyDraw\SNCLuckyDraw\obj\Debug\SNCLuckyDraw.Form1.resources
+E:\Projects\SNCLuckyDraw\SNCLuckyDraw\obj\Debug\SNCLuckyDraw.Properties.Resources.resources
+E:\Projects\SNCLuckyDraw\SNCLuckyDraw\obj\Debug\SNCLuckyDraw.csproj.GenerateResource.cache
+E:\Projects\SNCLuckyDraw\SNCLuckyDraw\obj\Debug\SNCLuckyDraw.csproj.CoreCompileInputs.cache
+E:\Projects\SNCLuckyDraw\SNCLuckyDraw\obj\Debug\SNCLuckyDraw.exe
+E:\Projects\SNCLuckyDraw\SNCLuckyDraw\obj\Debug\SNCLuckyDraw.pdb
