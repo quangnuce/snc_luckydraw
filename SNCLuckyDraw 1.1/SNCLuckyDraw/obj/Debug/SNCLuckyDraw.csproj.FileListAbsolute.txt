@@ -1,0 +1,32 @@
+E:\Projects\SNCLuckyDraw\SNCLuckyDraw\bin\Debug\SNCLuckyDraw.exe.config
+E:\Projects\SNCLuckyDraw\SNCLuckyDraw\bin\Debug\SNCLuckyDraw.exe
+E:\Projects\SNCLuckyDraw\SNCLuckyDraw\bin\Debug\SNCLuckyDraw.pdb
+E:\Projects\SNCLuckyDraw\SNCLuckyDraw\obj\Debug\SNCLuckyDraw.csprojAssemblyReference.cache
+E:\Projects\SNCLuckyDraw\SNCLuckyDraw\obj\Debug\SNCLuckyDraw.Form1.resources
+E:\Projects\SNCLuckyDraw\SNCLuckyDraw\obj\Debug\SNCLuckyDraw.Properties.Resources.resources
+E:\Projects\SNCLuckyDraw\SNCLuckyDraw\obj\Debug\SNCLuckyDraw.csproj.GenerateResource.cache
+E:\Projects\SNCLuckyDraw\SNCLuckyDraw\obj\Debug\SNCLuckyDraw.csproj.CoreCompileInputs.cache
+E:\Projects\SNCLuckyDraw\SNCLuckyDraw\obj\Debug\SNCLuckyDraw.exe
+E:\Projects\SNCLuckyDraw\SNCLuckyDraw\obj\Debug\SNCLuckyDraw.pdb
+C:\Users\nguyen anh duc\Documents\Visual Studio 2019\snc_luckydraw-master\example\SNCLuckyDraw\bin\Debug\SNCLuckyDraw.exe.config
+C:\Users\nguyen anh duc\Documents\Visual Studio 2019\snc_luckydraw-master\example\SNCLuckyDraw\bin\Debug\SNCLuckyDraw.exe
+C:\Users\nguyen anh duc\Documents\Visual Studio 2019\snc_luckydraw-master\example\SNCLuckyDraw\bin\Debug\SNCLuckyDraw.pdb
+C:\Users\nguyen anh duc\Documents\Visual Studio 2019\snc_luckydraw-master\example\SNCLuckyDraw\obj\Debug\SNCLuckyDraw.csprojAssemblyReference.cache
+C:\Users\nguyen anh duc\Documents\Visual Studio 2019\snc_luckydraw-master\example\SNCLuckyDraw\obj\Debug\SNCLuckyDraw.Form1.resources
+C:\Users\nguyen anh duc\Documents\Visual Studio 2019\snc_luckydraw-master\example\SNCLuckyDraw\obj\Debug\SNCLuckyDraw.Properties.Resources.resources
+C:\Users\nguyen anh duc\Documents\Visual Studio 2019\snc_luckydraw-master\example\SNCLuckyDraw\obj\Debug\SNCLuckyDraw.csproj.GenerateResource.cache
+C:\Users\nguyen anh duc\Documents\Visual Studio 2019\snc_luckydraw-master\example\SNCLuckyDraw\obj\Debug\SNCLuckyDraw.csproj.CoreCompileInputs.cache
+C:\Users\nguyen anh duc\Documents\Visual Studio 2019\snc_luckydraw-master\example\SNCLuckyDraw\obj\Debug\SNCLuckyDraw.exe
+C:\Users\nguyen anh duc\Documents\Visual Studio 2019\snc_luckydraw-master\example\SNCLuckyDraw\obj\Debug\SNCLuckyDraw.pdb
+C:\Users\nguyen anh duc\Documents\Visual Studio 2019\snc_luckydraw-master\example\SNCLuckyDraw\obj\Debug\SNCLuckyDraw.MainForm.resources
+C:\Users\nguyen anh duc\Documents\Visual Studio 2019\snc_luckydraw-master\SNCluckydraw 1.0\SNCLuckyDraw\bin\Debug\SNCLuckyDraw.exe.config
+C:\Users\nguyen anh duc\Documents\Visual Studio 2019\snc_luckydraw-master\SNCluckydraw 1.0\SNCLuckyDraw\bin\Debug\SNCLuckyDraw.exe
+C:\Users\nguyen anh duc\Documents\Visual Studio 2019\snc_luckydraw-master\SNCluckydraw 1.0\SNCLuckyDraw\bin\Debug\SNCLuckyDraw.pdb
+C:\Users\nguyen anh duc\Documents\Visual Studio 2019\snc_luckydraw-master\SNCluckydraw 1.0\SNCLuckyDraw\obj\Debug\SNCLuckyDraw.csprojAssemblyReference.cache
+C:\Users\nguyen anh duc\Documents\Visual Studio 2019\snc_luckydraw-master\SNCluckydraw 1.0\SNCLuckyDraw\obj\Debug\SNCLuckyDraw.Form1.resources
+C:\Users\nguyen anh duc\Documents\Visual Studio 2019\snc_luckydraw-master\SNCluckydraw 1.0\SNCLuckyDraw\obj\Debug\SNCLuckyDraw.changeimages1.resources
+C:\Users\nguyen anh duc\Documents\Visual Studio 2019\snc_luckydraw-master\SNCluckydraw 1.0\SNCLuckyDraw\obj\Debug\SNCLuckyDraw.Properties.Resources.resources
+C:\Users\nguyen anh duc\Documents\Visual Studio 2019\snc_luckydraw-master\SNCluckydraw 1.0\SNCLuckyDraw\obj\Debug\SNCLuckyDraw.csproj.GenerateResource.cache
+C:\Users\nguyen anh duc\Documents\Visual Studio 2019\snc_luckydraw-master\SNCluckydraw 1.0\SNCLuckyDraw\obj\Debug\SNCLuckyDraw.csproj.CoreCompileInputs.cache
+C:\Users\nguyen anh duc\Documents\Visual Studio 2019\snc_luckydraw-master\SNCluckydraw 1.0\SNCLuckyDraw\obj\Debug\SNCLuckyDraw.exe
+C:\Users\nguyen anh duc\Documents\Visual Studio 2019\snc_luckydraw-master\SNCluckydraw 1.0\SNCLuckyDraw\obj\Debug\SNCLuckyDraw.pdb
