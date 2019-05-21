@@ -1,1 +1,1 @@
-Ví dụ winform SNC Lucky Draw
+Hoàn thiện về mặt tính năng,mong các bạn ủng hộ 
